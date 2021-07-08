@@ -2,4 +2,4 @@
 Providing host name and all users information using tab at given attachment.
 
 
-Internship at Havelsan - 2021 May
+Ahmed Said Çıtak - Intern at HAVELSAN - 2021
